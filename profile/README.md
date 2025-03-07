@@ -6,11 +6,14 @@ Welcome to the Tridecco Game organization! We are dedicated to providing an enga
 
 ## Key Features
 
-- **Dynamic Game Environment:** Real-time updates and interactions within the game.
-- **User Management:** Secure user authentication and profile management.
-- **Game Records:** Track and display game records and player rankings.
-- **Security:** Comprehensive security records and session management.
-- **Responsive Design:** Optimized for various devices with a responsive UI.
+- **Microservices Architecture:** Modular and scalable design with independent services.
+- **Real-Time Gameplay:** Low-latency, high-performance game sessions with real-time updates.
+- **Advanced AI:** Adaptive and strategic AI opponents for challenging gameplay.
+- **User Management:** Secure authentication, profile management, and user data storage.
+- **Cross-Platform Support:** Seamless experience across web and mobile platforms.
+- **Scalability:** Multi-region deployment to ensure optimal performance and low latency.
+- **Responsive Design:** Optimized user interface for various devices.
+- **Security:** Robust security measures for data protection and secure communication.
 
 ## Repositories
 
